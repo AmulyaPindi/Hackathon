@@ -10,4 +10,10 @@ DOCUMENT ORGANISER APPLICATION
 
 4.     The files uploaded would also display the main content from the documents so that the user can understand the files.
 
+
+REFERENCES:
+1. www.aspsnippets.com
+2. https://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.fileupload.filecontent(v=vs.110).aspx
+3. www.stackoverflow.com
+
  
